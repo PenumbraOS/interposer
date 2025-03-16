@@ -6,7 +6,7 @@ We have two different endorsed mechanisms for obtaining an interposer:
 
 ## PCB (Recommended)
 
-![Assembled interposers](pcb-diy/.github/assets/interposers.jpg)
+![Assembled interposers](https://github.com/MaxMaeder/OpenPin/raw/master/.github/assets/interposers.jpg)
 
 [Learn more](https://github.com/MaxMaeder/OpenPin)
 
@@ -16,7 +16,7 @@ Design by @MaxMaeder.
 
 ## Full DIY (Easiest)
 
-![](full-diy/images/Dock%20Body.png)
+![](https://github.com/agg23/ai-pin-interposer/raw/master/images/Docked%20Pin.jpg)
 
 [Learn more](https://github.com/agg23/ai-pin-interposer)
 
