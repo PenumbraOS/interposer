@@ -1,0 +1,6 @@
+[submodule "ai-pin-interposer"]
+	path = full-diy
+	url = https://github.com/agg23/ai-pin-interposer
+[submodule "OpenPin"]
+	path = pcb-diy
+	url = https://github.com/MaxMaeder/OpenPin
