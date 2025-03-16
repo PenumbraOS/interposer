@@ -12,7 +12,7 @@ We have two different endorsed mechanisms for obtaining an interposer:
 
 This option is the recommended interposer solution due to its high quality and ease of construction. It does require fabrication of a PCB and fine SMD soldering ability.
 
-Design by @MaxMaeder.
+Design by [@MaxMaeder](https://github.com/MaxMaeder).
 
 ## Full DIY (Easiest)
 
@@ -22,4 +22,4 @@ Design by @MaxMaeder.
 
 This option is able to be built completely DIY (with the help of a 3D printer). It requires fine soldering ability, but less than that required by SMD components.
 
-Design by @agg23.
+Design by [@agg23](https://github.com/agg23).
