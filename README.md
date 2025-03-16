@@ -2,6 +2,9 @@
 
 An interposer is a device that allows you to connect to the Ai Pin over ADB + USB. This unlocks the device for additional uses such as openPin's projects.
 
+> [!NOTE]  
+> Access over ADB requires the leaked Humane ADB cert. We cannot help you obtain this file.
+
 We have two different endorsed mechanisms for obtaining an interposer:
 
 ## PCB (Recommended)
