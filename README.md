@@ -5,6 +5,10 @@ An interposer is a device that allows you to connect to the Ai Pin over ADB + US
 > [!NOTE]
 > Access over ADB requires the leaked Humane ADB cert. In order to access the device over ADB without finding the cert, you can use [openPin Hub](https://openpin.org) or [a custom ADB client](https://github.com/PenumbraOS/adb_remote_auth).
 
+## Setup
+
+[Follow the preparation instructions](preparation.md) to allow your Ai Pin to use an interposer.
+
 We have two different endorsed mechanisms for obtaining an interposer:
 
 ## Purchase
